@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mf-logo img {
+    width: 34px;
+    height: 34px;
+}
